@@ -7,7 +7,9 @@ const NotFound = () => (
       alt="not found"
     />
     <NotFoundHeading>Page Not Found</NotFoundHeading>
-    <NotFoundPara>We are Sorry</NotFoundPara>
+    <NotFoundPara>
+      We are sorry, the page you requested could not be found
+    </NotFoundPara>
   </NotFoundContainer>
 )
 export default NotFound

@@ -19,7 +19,7 @@ export const Image = styled.img`
   height: 60vh;
   width: 80vh;
 `
-export const Name = styled.name`
+export const Name = styled.h1`
   font-size: 12px;
 `
 export const Topic = styled.p`

@@ -104,7 +104,7 @@ const Register = props => (
                 </InputContainer>
                 <RegisterButton type="submit">Register Now</RegisterButton>
                 {showError === true ? (
-                  <ErrorMsg>Please Enter Your name</ErrorMsg>
+                  <ErrorMsg>Please enter your name</ErrorMsg>
                 ) : (
                   ''
                 )}

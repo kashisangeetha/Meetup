@@ -40,7 +40,7 @@ const Home = props => {
             ) : (
               <HomeContainer>
                 <HomeHeading>Welcome to Meetup</HomeHeading>
-                <HomePara>Please</HomePara>
+                <HomePara>Please register for the topic</HomePara>
                 <Link to="/register">
                   <Button onClick={onRegister}>Register</Button>
                 </Link>
