@@ -1,6 +1,6 @@
 import Header from '../Header'
 
-import RegisterContext from '../../context/RegisterContext'
+import RegisterContext from '../context/RegisterContext'
 
 import {
   RegisterContainer,

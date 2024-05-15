@@ -8,7 +8,7 @@ import Home from './components/Home'
 
 import NotFound from './components/NotFound'
 
-import RegisterContext from './context/RegisterContext'
+import RegisterContext from './components/context/RegisterContext'
 
 import './App.css'
 
